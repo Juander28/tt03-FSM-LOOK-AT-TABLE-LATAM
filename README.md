@@ -1,12 +1,13 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# PROGRAMMABLE FSM 
+# FSM PROGRAMABLE
+ El proyecto es una maquina de estados, a la cual se puede modficar la secuencia de los estados 
 
 
-
-## how does it work?
-
-
+## ¿Comó funciona?
+ 
+ #### ENTRADAS:
+### SALIDAS:
 
 ## documentation 
 
